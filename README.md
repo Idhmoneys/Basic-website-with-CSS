@@ -15,7 +15,7 @@ Front-end project for roadmap.sh
 ## Link to roadmap projects:
 ***Main Project: [Roadmap Grade-Report-Generator Project](https://roadmap.sh/projects/portfolio-website)***
 
-***My Solution: [Idhm Solution](https://roadmap.sh/projects/js-grade-report-generator/solutions?u=6a41080523088a0480d07385)***
+***My Solution: [Idhm Solution](https://roadmap.sh/projects/portfolio-website/solutions?u=6a41080523088a0480d07385)***
 
 ## Made by
 ***Github: [@Idhmoneys](https://github.com/Idhmoneys)***
